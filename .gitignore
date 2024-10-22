@@ -2,4 +2,4 @@
 *.pkl
 .venv*
 *.db
-mlflow
+mlartifacts
