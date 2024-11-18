@@ -4,8 +4,8 @@
 Для запуска необходимо выполнить команды:
 1. git clone https://github.com/SmetaninAS/IISLR1.git
 2. cd IISLR1
-3. python3 -m venv .venv_my_proj
-4. source venv/bin/activate
+3. python3 -m venv .venv
+4. .venv\Scripts\activate.bat
 5. pip install -r requirements.txt
 
 ## Исследование данных
