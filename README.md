@@ -43,4 +43,5 @@
 **Модель** Catboost\
 **Параметры:**\
 depth=6, learning_rate=0.03825\
-run id 10608bdf12144244a280d59ca8ea6381
+run id 10608bdf12144244a280d59ca8ea6381\
+Скриншоты с метриками и версиями находятся в папке research под названиями metrics.bmp и vesrions.bmp
