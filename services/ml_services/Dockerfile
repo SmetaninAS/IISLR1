@@ -11,5 +11,5 @@ VOLUME /models
 
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000" ]
 
-# docker build . --tag car_model:0
+# docker build . --tag car_model:2
 # docker run -p 8001:8000 -v $(pwd)/../models:/models car_model:0
